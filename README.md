@@ -8,3 +8,6 @@ Oficjalna aplikacja Mniam Pos Android
 
 12.06.2025 wydanie 1.6.0
 - test automatycznego update
+
+29.06.2025 wydanie 1.7.0
+temirnal
