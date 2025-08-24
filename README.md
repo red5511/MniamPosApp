@@ -14,3 +14,6 @@ temirnal
 
 09.07.2025 wydanie 1.9.0
 poprawa resetowania hasla
+
+24.08.2025 wydanie 1.10.0
+temirnal + zapisuwanie danych przerz capacitora
