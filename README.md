@@ -17,3 +17,8 @@ poprawa resetowania hasla
 
 24.08.2025 wydanie 1.10.0
 temirnal + zapisuwanie danych przerz capacitora
+
+
+24.08.2025 wydanie 1.11.0
+Product comments, rejestracja bez maila
+
