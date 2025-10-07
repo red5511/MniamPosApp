@@ -22,3 +22,5 @@ temirnal + zapisuwanie danych przerz capacitora
 24.08.2025 wydanie 1.11.0
 Product comments, rejestracja bez maila
 
+24.08.2025 wydanie 1.12.0
+chainy + ubulyAPP
