@@ -24,3 +24,6 @@ Product comments, rejestracja bez maila
 
 24.08.2025 wydanie 1.12.0
 chainy + ubulyAPP
+
+23.10.2025 wydanie 1.13.0
+statystyki chaina + kody qr dla specjalnej oferty
