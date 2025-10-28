@@ -27,3 +27,6 @@ chainy + ubulyAPP
 
 23.10.2025 wydanie 1.13.0
 statystyki chaina + kody qr dla specjalnej oferty
+
+
+1.14.0 
