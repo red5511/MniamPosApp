@@ -38,3 +38,5 @@ statystyki chaina + kody qr dla specjalnej oferty
 1.20.0
 
 1.20.1
+
+1.20.2
