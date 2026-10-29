@@ -58,3 +58,5 @@ statystyki chaina + kody qr dla specjalnej oferty
 1.25.2
 
 1.25.3
+
+1.26.0 - ksef ;)
